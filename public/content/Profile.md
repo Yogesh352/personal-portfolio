@@ -7,8 +7,7 @@
 - Passionate about widening my knowledge regarding technology by embarking on new projects and taking up opportunities.
 
 ## About
-I am a Y3 student studying at Singapore Management University and I am passionate about widening my knowledge regarding technology as well as embarking on new projects. Keen to take up roles
-in Software Engineering, Data Engineering, Data Science, AI and Cybersecurity.
+I am a Y3 student studying at Singapore Management University and I am passionate about widening my knowledge regarding technology as well as embarking on new projects. Keen to take up roles in Software Engineering, Data Engineering, Data Science, AI and Cybersecurity.
 
 ## Contact
  
