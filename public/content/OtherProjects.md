@@ -35,7 +35,7 @@ As part of the "Operation Systems with Android" module, I was involved in the de
 I undertook a project with the aim of acquiring proficiency in the C# language and the .NET framework. I developed an API that encompassed movie and actor entities interconnected through a one-to-many relationship. To facilitate seamless data management, I implemented the CRUD operations. Furthermore, I incorporated role-based authorization and authentication mechanisms to ensure secure access to the API. For database management, I leveraged mongoDB and configured it to run locally within a Docker image. To monitor the health and availability of the API, I included health checks that continuously assessed its functionality and provided alerts if any issues arose. In order to guarantee the correct behavior of the API, I conducted unit tests utilizing the .NET libraries. These tests were designed to validate the accuracy of the controller's actions.
 - Tags: Personal
 - Badges:
-  - Personal [grey]
+  - Personal [gray]
 - Buttons:
   - Github Repo [https://github.com/Yogesh352/MovieAPI]
 
@@ -44,7 +44,7 @@ I undertook a project with the aim of acquiring proficiency in the C# language a
 I embarked on a project to learn Tensorflow as I have an avid interest in Artifical Intelligence and Tensorflow is one of the most popular frameworks used in today's industry. This is a simple sentiment analysis project where it checks if a review is a positive or a negative review. Data for movie reviews was retrieved from an online source and was used to train and test the data. Pandas and Numpy Libraries were used to study the data as well. Preprocessing by cleaning the data and removing unnecessary componenents within the reviews were done to increase the accuracy of the ML model. The algorithm that I decided to use to train the model was the LinearSVC algorithm.
 - Tags: Personal
 - Badges:
-  - Personal [grey]
+  - Personal [gray]
 - Buttons:
   - Github Repo [https://colab.research.google.com/drive/1Si6LaUy7YuSnyf2o2BknUrTsJ_iRHl60usp=sharing]
 

@@ -3,7 +3,7 @@ OfficeProductivity was a personal project and is a one-stop communication and ta
 - ![600x200](/assets/OfficeProductivity.jpg)
 - Tags: Category 1
 - Badges:
-  - Personal [grey]
+  - Personal [gray]
 - Buttons:
   - Backend [https://github.com/Yogesh352/officeproductivity-backend]
   - Frontend [https://github.com/Yogesh352/officeproductivity-frontend]
