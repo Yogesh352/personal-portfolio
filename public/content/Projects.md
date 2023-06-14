@@ -21,7 +21,7 @@ The Green Investor is a turn-based business simulation trivia game that will req
 
 ## AI Project
 During my enrollment in the "Intro to AI" module, I engaged in several assignments that provided me with hands-on experience on diverse platforms, including TensorFlow. One notable task involved training an artificial neural network (ANN) classifier to accurately identify handwritten digits sourced from the MNIST dataset. To challenge the model's robustness, I intentionally introduced noise to the images, requiring me to fine-tune various parameters until achieving a commendable 95% accuracy rate when evaluating the test dataset. Furthermore, I delved into the realm of convolutional neural networks (CNN) by implementing a model specifically designed for a binary alpha digit dataset. Leveraging the powerful technique of transfer learning, I capitalized on pre-existing knowledge to enhance the CNN's performance on this unique dataset. In another assignment, I explored the concept of Singular Value Decomposition (SVD) by employing cooccurrence matrices to derive word embeddings. This involved implementing the SVD algorithm to capture meaningful representations of words within a given context. Additionally, I eagerly ventured into the realm of reinforcement learning by implementing a Q-learning model using the OpenAI Gym framework. This endeavor offered me valuable insights into the fundamental principles and techniques employed in reinforcement learning.
-- ![600x200](/Assets/AI.jpg)
+- ![600x200](/assets/AI.jpg)
 - Tags: Category 3
 - Badges:
   - School [blue]
