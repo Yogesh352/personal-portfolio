@@ -31,6 +31,14 @@ As part of the "Operation Systems with Android" module, I was involved in the de
 - Buttons:
   - Github Repo [https://github.com/Yogesh352/FlappyBird2]
 
+## ServiceFinder
+ServiceFinder was developed during a hackathon held by Goldman Sachs. We implemented a platform that helps new companies that are planning to enter the banking industry find services provided by Goldman Sachs easily. We designed an interactive frontend design using React.js and the backend was set up using Spring Boot. The database that we decided to use was SQL. I was involved in the development of the frontend, integration of the frontend with the backend as well as the development of API involving relational schemas in the backend to post data inputed by the users into our SQL database.
+- Tags: Hackathon
+- Badges:
+  - Hackathon [red]
+- Buttons:
+  - Github Repo [https://github.com/Yogesh352/ServiceFinder]
+
 ## MOVIE API
 I undertook a project with the aim of acquiring proficiency in the C# language and the .NET framework. I developed an API that encompassed movie and actor entities interconnected through a one-to-many relationship. To facilitate seamless data management, I implemented the CRUD operations. Furthermore, I incorporated role-based authorization and authentication mechanisms to ensure secure access to the API. For database management, I leveraged mongoDB and configured it to run locally within a Docker image. To monitor the health and availability of the API, I included health checks that continuously assessed its functionality and provided alerts if any issues arose. In order to guarantee the correct behavior of the API, I conducted unit tests utilizing the .NET libraries. These tests were designed to validate the accuracy of the controller's actions.
 - Tags: Personal
@@ -47,5 +55,14 @@ I embarked on a project to learn Tensorflow as I have an avid interest in Artifi
   - Personal [gray]
 - Buttons:
   - Github Repo [https://colab.research.google.com/drive/1Si6LaUy7YuSnyf2o2BknUrTsJ_iRHl60usp=sharing]
+
+## Data Science Assignment
+As part of a school project, my group tasked to analyze an American housing database containing 1000 data points by plotting graphs using various libraries within python such as Pandas and Numpy to find variables that have a correlation. We also conducted problem formulation, dataset exploration, data pre-processing, feature selection, model building and model evaluation for both categorical and numerical variables.
+- Tags: School
+- Badges:
+  - School [blue]
+- Buttons:
+  - Assignment [https://drive.google.com/file/d/1ZkxwNf_4oM83_2pC9A3pI3436Q16rgru/view]
+
 
 
