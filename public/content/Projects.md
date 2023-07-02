@@ -26,5 +26,5 @@ During my enrollment in the "Intro to AI" module, I engaged in several assignmen
 - Badges:
   - School [blue]
 - Buttons:
-  - Assignment 1 [https://example.com]
-  - Assignment 2   [https://example.com]
+  - Assignment 1 [https://drive.google.com/drive/folders/1bH8pHiplDMPFwcbKxbemEKfBnnQU-ABV?usp=sharing]
+  - Assignment 2   [https://drive.google.com/drive/folders/1t3XESasXDNB4J_FW0FYMzlC0pCV9V89O?usp=sharing]
