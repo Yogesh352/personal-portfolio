@@ -25,9 +25,12 @@
 - Badges:
   - Internship [blue]
 - List Items:
-  - Involved in the creation and implementation of ETL (Extract, Transform, Load) pipelines which played a pivotal role in seamlessly converting raw sensor data into refined, curated data, leveraging the powerful suite of AWS services, including S3 buckets, Lambda functions, SQS queues, Redshift data warehousing, DynamoDB NoSQL databases, EMR big data processing, and Eventbridge event-driven architecture
-  - Successfully engineered robust pipelines to facilitate the smooth transition of data from on-premise environments to the cloud, harnessing the capabilities of Streamsets for efficient data ingestion
-  - Actively contributed to the development of automation bots for the RPA team, utilizing the cutting-edge capabilities of Automation Anywhere A360.
+  - Architected and executed ETL pipelines utilizing a comprehensive range of AWS services such as S3 buckets, Lambda, SQS, Redshift, DynamoDB, EMR and Eventbridge, transforming raw sensor data into curated data
+  - Effectively designed data ingestion pipelines with StreamSets, enabling the smooth migration of on-premise database data to the cloud, adapting datafiles to required formats like Parquet and XML, and implementing thorough data cleaning to ensure seamless compatibility with the chosen file structures
+  - Engineered efficient SQL queries, incorporating intricate joins among sizable tables, with a focus on expediting data extraction while ensuring optimal performance
+  - Contributed to the refactoring of the codebase, leveraging Python, PySpark, Numpy and Pandas for data processing, with a primary goal of enhancing code reusability across diverse use cases
+  - Provided operational support by troubleshooting and resolving bugs in the mobile application using Microsoft PowerApps, ensuring seamless functionality and user experience
+  - Developed automation bots utilizing Automation Anywhere A360, streamlining labor-intensive manual processes by automating tasks such as timely notification email dispatch
 
 ## Lexly
 - *Software Engineer Intern* | Aug'22 - Dec'22
