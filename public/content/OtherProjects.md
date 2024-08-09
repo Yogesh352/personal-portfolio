@@ -7,6 +7,7 @@ TravelLocal is a project built during Lifehack 2023 and it was chosen as one of 
 - Buttons:
   - Backend [https://github.com/ChenKun8991/ChadGBTstealmyjob]
   - Frontend [https://github.com/Yogesh352/localtravelapp-frontend]
+
 ## ServiceFinder
 ServiceFinder was developed during a hackathon held by Goldman Sachs. We implemented a platform that helps new companies that are planning to enter the banking industry find services provided by Goldman Sachs easily. We designed an interactive frontend design using React.js and the backend was set up using Spring Boot. The database that we decided to use was SQL. I was involved in the development of the frontend, integration of the frontend with the backend as well as the development of API involving relational schemas in the backend to post data inputed by the users into our SQL database.
 - Tags: Hackathon
@@ -30,6 +31,16 @@ As part of the "Operation Systems with Android" module, I was involved in the de
   - School [blue]
 - Buttons:
   - Github Repo [https://github.com/Yogesh352/FlappyBird2]
+
+## OfficeProductivity
+OfficeProductivity was a personal project and is a one-stop communication and task-allocation platform for office workers. I built the user interface using React stateful components to allow users to effortlessly communicate with their fellow colleagues as well as to update them about their life stories. The Backend was set up in MongoDB atlas using mongoose schema. I connected the front-end application to the back-end using Axios and Express.js Additionally, I implemented real-time messaging using SocketIO.
+- Tags: Personal
+- Badges:
+  - Personal [gray]
+- Buttons:
+  - Backend [https://github.com/Yogesh352/officeproductivity-backend]
+  - Frontend [https://github.com/Yogesh352/officeproductivity-frontend]
+  - Video [https://www.youtube.com/watch?v=sERQABR0Iqo]
 
 ## ServiceFinder
 ServiceFinder was developed during a hackathon held by Goldman Sachs. We implemented a platform that helps new companies that are planning to enter the banking industry find services provided by Goldman Sachs easily. We designed an interactive frontend design using React.js and the backend was set up using Spring Boot. The database that we decided to use was SQL. I was involved in the development of the frontend, integration of the frontend with the backend as well as the development of API involving relational schemas in the backend to post data inputed by the users into our SQL database.

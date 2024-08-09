@@ -18,6 +18,41 @@
   - Point 1
   - Point 2
 
+## JPMorgan Chase & Co 
+- *Summer Analyst* | Jun'24 - Aug'24
+- ![logo512](../assets/JPMorgan.png)
+- Tags: Internship
+- Badges:
+  - Internship [blue]
+- List Items:
+  - Was part of the Compliance Technology Voice Surveillance Team
+  - Enhanced voice surveillance by incorporating multilingual audio capabilities and improving accuracy for over 7 languages with Automatic Speech Recognition (ASR) models
+  - Implemented speech-to-speech capabilities to significantly enhance the accuracy and functionality of the system for voice surveillance
+  - Improved the accuracy of detecting exact locations of suspicious activities within multilingual audio files by 15% through the implementation of the Trie data structure and embedding matching techniques
+
+## SGTraDex 
+- *Software Engineer Intern* | Jan'24 - May'24
+- ![logo512](../assets/SGTradex.png)
+- Tags: Internship
+- Badges:
+  - Internship [blue]
+- List Items:
+  - Developed Transferable Documents using OpenAttestation to track transactions, primarily utilizing Node.js for implementation.
+  - Ensured code quality and maintainability by writing robust unit tests, enhancing code cleanliness and usability.
+  - Developed a dynamic file upload feature on the frontend using React and a React drag-and-drop library, enhancing user experience and interface functionality.
+
+
+## Disciplina Asset Management
+- *Software Engineer Intern* | Aug'24 - Dec'24
+- ![logo512](../assets/disciplina.png)
+- Tags: Internship
+- Badges:
+  - Internship [blue]
+- List Items:
+  - Developed and implemented automation solutions for end-of-day reconciliations, optimizing processes to reduce task completion time by 4 hours weekly
+  - Designed adaptable code structures to accommodate new use cases with minimal modifications, enabling non-technical personnel to use the software seamlessly
+  - Independently researched and developed solutions to identify the most optimal, long-term, and use case-specific approaches
+
 ## GlobalFoundries
 - *Data Engineer Intern* | May'23 - Aug'23
 - ![logo512](../assets/gf.png)
