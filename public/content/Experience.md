@@ -19,7 +19,7 @@
   - Point 2
 
 ## JPMorgan Chase & Co 
-- *Summer Analyst* | Jun'24 - Aug'24
+- *Machine Learning Summer Analyst* | Jun'24 - Aug'24
 - ![logo512](../assets/JPMorgan.png)
 - Tags: Internship
 - Badges:
