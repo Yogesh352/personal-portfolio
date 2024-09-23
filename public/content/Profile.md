@@ -3,7 +3,7 @@
 
 ## Header
 - Hi, my name is Yogesh. 
-- I'm a Computer Science Undergraduate.
+- I'm a Computational Data Science Graduate Student.
 - Driven by a fervent desire to continuously broaden my technological expertise, I enthusiastically pursue new projects and embrace diverse opportunities to expand my knowledge.
 
 ## About
